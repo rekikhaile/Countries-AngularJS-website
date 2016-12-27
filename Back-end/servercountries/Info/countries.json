@@ -1,0 +1,43 @@
+﻿[
+  {
+    "name": "Finland",
+    "population": 5000000,
+    "flag": "img/Finland.jpg",
+    "wiki" :  "https://en.wikipedia.org/wiki/Finland"
+  },
+  {
+    "name": "Ethiopia",
+    "population": 90000000,
+    "flag": "img/Ethio.jpg",
+    "wiki" :  "https://en.wikipedia.org/wiki/Ethiopia"
+
+  },
+  {
+    "name": "Russia",
+    "population": 245000000,
+    "flag": "img/Russia.jpg",
+    "wiki" :  "https://en.wikipedia.org/wiki/Russia"
+
+  },
+  {
+    "name": "Brazil",
+    "population": 145000000,
+    "flag": "img/Brazil.jpg",
+    "wiki" :  "https://en.wikipedia.org/wiki/Brazil"
+
+  },
+  {
+    "name": "Bangladesh",
+    "population": 163000000,
+    "flag": "img/Bangladesh.jpg",
+    "wiki" :  "https://en.wikipedia.org/wiki/Bangladesh"
+
+  },
+  {
+    "name": "Bahamas",
+    "population": 320000,
+    "flag": "img/Bahamas.jpg",
+    "wiki" :  "https://en.wikipedia.org/wiki/Bahamas"
+
+  }           
+]
